@@ -13,42 +13,32 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 
 ## PROJETO
 
-  Nosso projeto de logística visa (texto)
-  Desenvolvimento de uma interface gráfica que ofereça ao cliente uma análise visual (texto)
-  Desenvolvimento de um projeto pedagógico baseado na Metodologia API, visando o ensino-aprendizado centrado no desenvolvimento de competências. Este projeto é fundamentado nos pilares do aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Utilizando estratégias para compreender o problema, conceber uma solução viável, desenvolver e implementar o MVP (Minimum Viable Product), seguido pela sua operação (CDIO).
+  Este projeto visa desenvolver uma solução para otimizar o transporte público da EMTU, promovendo práticas sustentáveis. Serão implementadas medidas para reduzir emissões de CO2, integrar modais de transporte e fornecer dados abertos, além de incentivar o descarte correto de materiais e a conscientização ambiental. O objetivo é melhorar a eficiência operacional e promover a mobilidade sustentável nas áreas urbanas.
 
 ## EQUIPE
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |  Nicolas    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()       |
-| Scrum Master  | Ana Caroline |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-7570ba2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()     |
-| Team Member   | Fernando             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()        |
-|  Team Member  | Mariana                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()        |
-|  Team Member  | Yasmin                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()   |
-|  Team Member  | Wilson     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()          |
+| Product Owner |  Rafaela Jonas    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()       |
+| Scrum Master  | Rafael Sant'Ana |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-7570ba2a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()     |
+| Team Member   | Ingrid Rosa            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()        |
+|  Team Member  | Enzo Bragadin                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()        |
+|  Team Member  | Lucas Braga                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()   |
+|  Team Member  | Alexssander Abreu     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()          |
 
-## EMPRESA
 
-**LASJK**
-
-<p align="center">
-  <img src="https://github.com/anacarolinae/LASJK/blob/main/Logo%20LASJK.png"/>
-
-</p>
 
  
 Missão
  
- >Oferecer soluções logísticas inovadoras e eficientes, superando as expectativas dos clientes e contribuindo para o crescimento sustentável de seus negócios. Buscamos constantemente a excelência operacional, aprimorando nossos serviços e mantendo o mais alto padrão de qualidade.
+ >Desenvolver uma solução que otimize o transporte público da EMTU, promovendo a mobilidade sustentável e práticas ambientais responsáveis. O projeto compromete-se a implementar estratégias para reduzir as emissões de CO2, integrar modais de transporte e disponibilizar dados abertos. Além disso, busca incentivar a conscientização sobre o descarte correto de materiais e a importância da preservação ambiental, visando a eficiência operacional e a melhoria da qualidade de vida nas áreas urbanas.
 
 Visão
 
- >Ser reconhecida como líder no setor de logística, sendo referência em eficiência, confiabilidade e inovação. Buscamos constantemente expandir nossas operações e desenvolver novas soluções para atender às necessidades em constante evolução de nossos clientes, mantendo um compromisso inabalável com a excelência. 
+ >A visão deste projeto é transformar o sistema de transporte público da EMTU em um modelo de eficiência e sustentabilidade, onde a mobilidade urbana é otimizada através da integração de modais, redução de emissões e acesso a dados abertos. Almeja-se um futuro em que a população esteja plenamente consciente de sua responsabilidade ambiental, contribuindo para um ambiente urbano mais limpo, saudável e acessível a todos. 
 
 Valores
 
- >Compromisso com o Cliente: Colocamos as necessidades e satisfação dos clientes em primeiro lugar, buscando sempre superar suas expectativas.
-
+ >Este projeto representa um compromisso sólido com os clientes da EMTU e a comunidade em geral. Através da otimização do transporte público, buscamos não apenas melhorar a eficiência operacional, mas também atender às necessidades e expectativas dos usuários, proporcionando uma experiência de mobilidade mais acessível, segura e sustentável.
 
 
 ## SPRINTS
