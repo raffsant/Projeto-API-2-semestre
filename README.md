@@ -45,9 +45,9 @@ Valores
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 16/09/2024 | Finalizado| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG001.A994.M.074.146.20241/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B521429fe-0b9d-4efa-af39-c5653daf110d%7D&wdOrigin=TEAMS-WEB.teams_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1712838676135&web=1) | 
-|1| 09/10/2024 | Finalizado | [Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
-|2| 06/11/2024| Finalizado |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
+|Kick Off | 16/09/2024 | Concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG001.A994.M.074.146.20241/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B521429fe-0b9d-4efa-af39-c5653daf110d%7D&wdOrigin=TEAMS-WEB.teams_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1712838676135&web=1) | 
+|1| 09/10/2024 | Concluído | [Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
+|2| 06/11/2024| Concluído |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
 |3| 27/11/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) |  
 |Feira de Soluções |12/12/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
 
@@ -55,21 +55,28 @@ Sprint | Previsão | Status| Histórico|
 ## BACKLOG DO PRODUTO
 
 * **Sprint 1**
-  
+- [x] Backlog do produto;
+- [x] Github estruturado;
+- [x] Jira Software estruturado;
+- [x] Atribuições das atividades do 2º Sprint;
+- [x] Fazer relatório técnico do 1º Sprint;
+- [x] Análise das principais rotas intermunicipais da EMTU;
+- [x] Análise do banco de dados EMTU;
+- [x] Análise de pontos principais da EMTU. 
 ![sprint backlog]()
 
 * **Sprint 2**
-
+- [x] Relatório;
+- [x] Desennvolvimennto de parcerias  e sistemas de monitoramento.
 ![sprint backlog]()
 
 * **Sprint 3**
-
+- [ ] Conclusão do projeto com base no feedback do cliente;
+- [ ] Plano de marketing ambiental para implementação no onibus;
+- [ ] Relatório geral;
+- [ ] Atualização GitHub;
+- [ ] Preparação para a Feira de Soluções.
 ![sprint backlog]()
-
-* **Sprint 4**
-  
-![sprint backlog]()
-  
 
 ## BURNDOWN DAS SPRINTS
 
