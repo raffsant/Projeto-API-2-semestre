@@ -63,20 +63,20 @@ Sprint | Previsão | Status| Histórico|
 - [x] Análise das principais rotas intermunicipais da EMTU;
 - [x] Análise do banco de dados EMTU;
 - [x] Análise de pontos principais da EMTU. 
-![sprint backlog]()
+
 
 * **Sprint 2**
 - [x] Relatório;
 - [x] Desennvolvimennto de parcerias  e sistemas de monitoramento.
-![sprint backlog]()
+
 
 * **Sprint 3**
-- [ ] Conclusão do projeto com base no feedback do cliente;
-- [ ] Plano de marketing ambiental para implementação no onibus;
-- [ ] Relatório geral;
-- [ ] Atualização GitHub;
+- [x] Conclusão do projeto com base no feedback do cliente;
+- [x] Plano de marketing ambiental para implementação no onibus;
+- [x] Relatório geral;
+- [x] Atualização GitHub;
 - [ ] Preparação para a Feira de Soluções.
-![sprint backlog]()
+
 
 ## BURNDOWN DAS SPRINTS
 
