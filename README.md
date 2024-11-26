@@ -3,13 +3,25 @@ Projeto API - 2° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 
 ## ÍNDICE
 
-* [Projeto](#projeto)
-* [Equipe](#equipe)
-* [Sprints](#Sprints)
-* [Backlog do Produto](#Backlog-do-Produto)
-* [Burndown das Sprints](#Burndowndas-Sprints)
-* [Tecnologias Especificas apoio](#Tecnologias-Especifica/apoio)
+* [Projeto]
+* [Equipe]
+* [Sprints]
+* [Backlog do Produto]
+* [Burndown das Sprints]
+* [Tecnologias Especificas apoio]
 
+# Tecnologias Utilizadas
+
+ ### Tecnologias Específicas/Apoio
+ > Teams,
+> Outlook
+
+  
+ ### Tecnologias da Informação
+ > Jira Software,
+> GitHub,
+> Office,
+> HTML
 
 ## PROJETO
 
@@ -89,18 +101,6 @@ Sprint | Previsão | Status| Histórico|
 
 ![Relatório Scrum](https://github.com/anacarolinae/LASJK/blob/main/Metodologia%20Scrum.png)
 
-
-## TECNOLOGIAS ESPECÍFICAS/ APOIO
-
-![Tenologias Específicas]()
-
-## FUNCIONALIDADES E REGISTROS DAS SPRINTS
-
-- ### Apresentação do MVP Sprint 1:
-
-![Dashboard MVP]()
-
-
 ## REGRAS DE NEGÓCIO
 
 - Criação de um Dashboard intuitivo para visualização dos dados apresentados.
@@ -114,7 +114,7 @@ Sprint | Previsão | Status| Histórico|
 - Power BI / Jira / Canvas.
 
 
-## COMPETÊNCIAS DESENVOLVIDAS
+# Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
 <details>
@@ -122,13 +122,14 @@ Sprint | Previsão | Status| Histórico|
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆  |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
-
 
 ## Soft Skill (saber comportamental)
 <details>
@@ -136,12 +137,14 @@ Sprint | Previsão | Status| Histórico|
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
+</details>
 
 
 
