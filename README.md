@@ -65,7 +65,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 16/09/2024 | Concluído| [Ver Relatório]() | 
 |1| 09/10/2024 | Concluído | [Ver Relatório](https://github.com/raffsant/Projeto-API-2-semestre/blob/main/API%202%20SEM%20LOG%20(2).pptx) | 
-|2| 06/11/2024| Concluído |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
+|2| 06/11/2024| Concluído |[Ver Relatório](https://www.canva.com/design/DAGVuGJ0C6g/2KdUd3bjxAXyqgh4xT8VUQ/edit) | 
 |3| 27/11/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) |  
 |Feira de Soluções |12/12/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
 
