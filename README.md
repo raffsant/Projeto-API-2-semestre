@@ -63,8 +63,8 @@ Valores
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 16/09/2024 | Concluído| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG001.A994.M.074.146.20241/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B521429fe-0b9d-4efa-af39-c5653daf110d%7D&wdOrigin=TEAMS-WEB.teams_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1712838676135&web=1) | 
-|1| 09/10/2024 | Concluído | [Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
+|Kick Off | 16/09/2024 | Concluído| [Ver Relatório]() | 
+|1| 09/10/2024 | Concluído | [Ver Relatório](https://github.com/raffsant/Projeto-API-2-semestre/blob/main/API%202%20SEM%20LOG%20(2).pptx) | 
 |2| 06/11/2024| Concluído |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
 |3| 27/11/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) |  
 |Feira de Soluções |12/12/2024 | a fazer |[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relatorio%20Sprint%201.pdf) | 
