@@ -81,7 +81,7 @@ Sprint | Previsão | Status| Histórico|
 ## BURNDOWN DAS SPRINTS
 
 * **Burndown da Sprint 1**
-
+![image](https://github.com/raffsant/Projeto-API-2-semestre/blob/main/image.png?raw=true)
 
 ## FERRAMENTAS UTILIZADAS 
 
